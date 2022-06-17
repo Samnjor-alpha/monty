@@ -15,7 +15,7 @@
  * @next: points to the next element of the stack (or queue)
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO school project
  */
 typedef struct arg_s
 {
@@ -32,7 +32,7 @@ extern arg_t arg;
  * @next: points to the next element of the stack (or queue)
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO school project
  */
 typedef struct stack_s
 {
@@ -47,7 +47,7 @@ typedef struct stack_s
  * @f: function to handle the opcode
  *
  * Description: opcode and its function
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO school project
  */
 typedef struct instruction_s
 {
@@ -75,7 +75,7 @@ typedef struct line
  * @next: points to the next element of the stack (or queue)
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO school project
  */
 typedef struct meta_s
 {
